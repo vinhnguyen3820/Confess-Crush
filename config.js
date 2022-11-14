@@ -1,20 +1,16 @@
 const CONFIG = {
-    titleWeb: "Tiêu đề web",
-    introTitle: 'Tên người yêu bạn',
-    introDesc: `Trái đất vốn lạ thường
-    Mà sao em cứ đi nhầm đường
-    Lạc vào tim anh lẻ loi
-    Đằng sau chữ yêu đây là thương`,
-    btnIntro: '^^HiHi^^',
-    title: 'Phải chăng em đã yêu ngay từ cái nhìn đầu tiên 🥰',
-    desc: 'Phải chăng em đã say ngay từ lúc thấy nụ cười ấy ',
-    btnYes: 'Thích lắm <33',
+    titleWeb: "To my Tiramisu",
+    introTitle: 'Chang miu aka Tracy',
+    introDesc: `hôm nay chắc em mệt mỏi và downmood nhiều lắm nhưng hãy cố gắng ăn uống đầy đủ, uống chút nước ấm và nghỉ ngơi thật nhiều nhéeee`,
+    btnIntro: 'Sending you all my love',
+    title: 'Cái này có lẽ không cool ngầu như trái tim em gửi anh nhưng mong em không thấy nó quá ngớ ngẩn 🥰',
+    desc: 'Hôm nay hãy nghỉ ngơi và cuộn tròn như 1 bé mèo nhé :> ',
+    btnYes: 'Vâng ạ!!!',
     btnNo: 'Không nha :3',
-    question: 'Trên thế giới hơn 7 tỉ người mà sao bạn lại yêu mình <3',
-    btnReply: 'Gửi cho bạn <3',
-    reply: 'Yêu thì yêu mà không yêu thì yêu <33333333',
-    mess: 'Mình biết mà 🥰. Yêu bạn nhiều nhiều 😘😘',
-    messDesc: 'Tối nay 7h, mình qua đón đi chơi nha.',
+    question: 'Trên thế giới hơn 7 tỉ người mà sao người đáng yêu như em bây giờ anh mới tìm thấy vậyyyy <3',
+    btnReply: 'Gửi cho em <3',
+    reply: ' <33333333',
+    mess: 'Em từng khiến cho 1 ngày tồi tệ của anh bỗng dưng trở nên vui vẻ và hạnh phúc hơn nên anh mong chút ngớ ngẩn này sẽ khiến em upmood lên 1 chút 🥰 😘😘',
+    messDesc: 'Nhắn tin cho anh khi em thấy đỡ hơn nha',
     btnAccept: 'Okiiiii lun <3',
-    messLink: 'https://github.com/zukahai/Confess-Crush' //link mess của các bạn. VD: https://www.facebook.com/messages/t/100014188333536
-}
+    
