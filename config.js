@@ -1,7 +1,7 @@
 const CONFIG = {
     titleWeb: "To my Tiramisu",
     introTitle: 'Chang miu aka Tracy',
-    introDesc: `hôm nay chắc em mệt mỏi và downmood nhiều lắm nhưng hãy cố gắng ăn uống đầy đủ, uống chút nước ấm và nghỉ ngơi thật nhiều nhéeeee`,
+    introDesc: `hôm nay chắc em mệt mỏi và downmood nhiều lắm nhưng hãy cố gắng ăn uống đầy đủ, uống chút nước ấm và nghỉ ngơi thật nhiều nhéeee`,
     btnIntro: 'Sending you all my love',
     title: 'Cái này có lẽ không cool ngầu như trái tim em gửi anh nhưng mong em không thấy nó quá ngớ ngẩn 🥰',
     desc: 'Hôm nay hãy nghỉ ngơi và cuộn tròn như 1 bé mèo nhé :> ',
